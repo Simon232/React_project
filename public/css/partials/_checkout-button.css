@@ -1,0 +1,28 @@
+.checkout-button {
+    padding: 0 20px;
+    text-align: center;
+}
+
+.checkout-button button {
+    background: #ffa181;
+    color: white;
+    border: 0;
+    border-radius: 2px;
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 300;
+    outline: none;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.checkout-button button:hover {
+    background: #ff8e67;
+}
+
+.checkout-button button:active {
+    -webkit-transform: scale(0.99);
+    transform: scale(0.99);
+}
