@@ -11,6 +11,3 @@ To see the project:
 - Destructuring assignment
 - Component-based architecture
 - CSS Partials/Imports
-
-### A user can interact with the checkout form
-![Bookmarker](https://github.com/SonyaMoisset/Checkout_REACT/blob/master/checkout.png)
